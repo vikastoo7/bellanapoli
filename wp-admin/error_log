@@ -1,0 +1,1 @@
+[25-Nov-2022 09:38:12 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/vbpft2elrclm/public_html/bellanapoli/wp-content/plugins/mp-restaurant-menu/classes/models/shop/reports/customer-report-class.php on line 182

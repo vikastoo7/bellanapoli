@@ -1,0 +1,66 @@
+/*
+Theme Name: Hello Elementor Child
+Theme URI: https://wp-themes.com/hello-elementor
+Author: ChildThemeWP.com
+Author URI: https://childthemewp.com
+Description: My WordPress Hello Elementor child theme.
+Template: hello-elementor
+License: GNU General Public License v3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+Version: 1.0.0
+Text Domain: hello-elementor-child
+*/
+
+
+.subscribe-popup-title {
+    color: #FFFFFF;
+    font-family: "Monoton", Sans-serif;
+    font-size: 42px;
+    font-weight: 400;
+    text-transform: uppercase;
+    line-height: 54px;
+	text-align:center;
+	padding: 20px 0 0 0;
+}
+.subscribe-popup-text{text-align: center;
+    color: #ffffff;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+	padding: 0 0px 20px 0;
+	
+}
+
+
+.subscribe-popup-form {
+    max-width: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.subscribe-popup-form .fluentform_wrapper_3 {width:75% !important}
+@media (max-width:767px){
+	.subscribe-popup-form .fluentform_wrapper_3 {width:100% !important}
+	.popup-logo{margin-top:20px !important;}
+	.subscribe-popup-title {
+		font-size: 37px;}
+	
+}
+.subscribe-popup-form .fluentform_wrapper_3 .fluent_form_3 .extra_spaced{
+    border-radius: 35px;
+    background: transparent !important;
+    height: 58px;
+	padding: 12px 15px !important;
+}
+.subscribe-popup-form .fluentform_wrapper_3 form.fluent_form_3 .ff-btn-submit{    background: #dca644 !important;
+    border-radius: 27px !important;
+    padding: 6px 27px !important;
+    height: 46px;
+}
+.pum-theme-1697, .pum-theme-default-theme {
+    background-color: rgba( 0, 0, 0, .70 ) !important;
+}
+.popup-logo{text-align:center;}
+#popmake-1706{background-color:#000000 !important;}

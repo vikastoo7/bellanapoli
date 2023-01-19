@@ -1,0 +1,1 @@
+"use strict";jQuery,lightbox.option({disableScrolling:!1,fadeDuration:600,fitImagesInViewport:!0,imageFadeDuration:600,resizeDuration:700});
